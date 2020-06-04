@@ -1,4 +1,10 @@
 /* Add CSS styling here */
-h1{
+*{
+    background-color: red;
+}
+#first{
+    background-color: red;
+}
+.name2 h1{
     color: red;
 }
